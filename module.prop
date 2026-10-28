@@ -1,0 +1,6 @@
+id=badhon_game_profile
+name=Badhon Game Profile (Zygisk)
+version=1.0
+versionCode=1
+author=Badhon
+description=Per-app device profile (model, SoC, GPU, WebView UA) for game compatibility testing. Needs Zygisk.

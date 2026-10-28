@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.18)
+project(badhon_gp CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(badhon_gp SHARED src/module.cpp)
+target_link_libraries(badhon_gp log)

@@ -1,0 +1,6 @@
+# mode=manual -> use "profile" below for every target app
+# mode=random -> each app gets a stable pseudo-random profile from "seed" (Action button makes a new seed)
+mode=manual
+profile=Galaxy S25 Ultra
+seed=1
+log=1
